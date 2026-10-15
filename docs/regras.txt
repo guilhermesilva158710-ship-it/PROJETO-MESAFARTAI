@@ -1,1 +1,5 @@
 #Regras internas e papéis do grupo
+Passo 1: Organização do Grupo e Repositório
+1.	Formar grupo de 3 a 5 alunos (podem ser os mesmos do projeto tech).
+2.	Criar um repositório PÚBLICO no GitHub com o nome exato: PROJETO-MESAFARTAI
+3.	Adicionar todos os integrantes como colaboradores e o professor.
